@@ -1,6 +1,6 @@
 {
-  "name": "tees made simple",
-  "short_name": "teesmadesimple",
+  "name": "teesmadesimple",
+  "short_name": "tms",
   "start_url": "/?homescreen=1",
   "display": "standalone",
   "theme_color": "#e65100",
